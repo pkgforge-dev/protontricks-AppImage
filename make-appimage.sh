@@ -13,7 +13,7 @@ export DESKTOP=/usr/share/applications/protontricks.desktop
 export DEPLOY_SYS_PYTHON=1
 
 # Deploy dependencies
-quick-sharun /usr/bin/protontricks*
+quick-sharun /usr/bin/*tricks*
 
 # Additional changes can be done in between here
 
